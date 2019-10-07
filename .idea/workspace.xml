@@ -102,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569827145253</updated>
       <workItem from="1569827150287" duration="8955000" />
-      <workItem from="1570420397077" duration="6024000" />
+      <workItem from="1570420397077" duration="7229000" />
     </task>
     <servers />
   </component>
@@ -112,6 +112,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
