@@ -15,5 +15,12 @@ public class loginController {
        // return "home";
         return mv;
     }
+    @GetMapping("/index")
+    public ModelAndView index() {
+        ModelAndView mv=new ModelAndView();
+        mv.setViewName("index");
+        // return "home";
+        return mv;
+    }
 
 }
