@@ -20,6 +20,7 @@ public class loginController {
         ModelAndView mv=new ModelAndView();
         mv.setViewName("index");
         // return "home";
+
         return mv;
     }
 

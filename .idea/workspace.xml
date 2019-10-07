@@ -17,6 +17,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -96,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569827145253</updated>
       <workItem from="1569827150287" duration="8955000" />
-      <workItem from="1570420397077" duration="5469000" />
+      <workItem from="1570420397077" duration="6024000" />
     </task>
     <servers />
   </component>
